@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="" alt="BlogSpace-homeScreen"/>
+    <img src="BlogSpace.png" alt="BlogSpace-homeScreen"/>
 </p>
 
 <h1 align="center">
