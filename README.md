@@ -1,5 +1,5 @@
 ## Demo Video
-[![Click Here!](https://www.youtube.com/watch?v=Qnf-2ye-4OQ/BlogSpace.png)](https://youtu.be/Qnf-2ye-4OQ)
+[![Click Here!](<img src="BlogSpace.png" alt="BlogSpace-homeScreen"/>)](https://youtu.be/Qnf-2ye-4OQ)
 
 <p align="center">
     <img src="BlogSpace.png" alt="BlogSpace-homeScreen"/>
