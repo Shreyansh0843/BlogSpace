@@ -1,4 +1,6 @@
-![Demo](Vite + React - Google Chrome 2024-12-18 16-18-51)
+## Demo
+<video src="BlogSpace_demoVideo.mp4" controls="controls" style="max-width: 730px;">
+</video>
 
 <p align="center">
     <img src="BlogSpace.png" alt="BlogSpace-homeScreen"/>
