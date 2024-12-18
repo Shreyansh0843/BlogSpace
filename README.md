@@ -1,5 +1,5 @@
 ## Demo Video
-[![Click Here!](<iframe width="560" height="315" src="https://www.youtube.com/embed/Qnf-2ye-4OQ?si=vPLsfMMcVRgAv3p5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>)](https://youtu.be/Qnf-2ye-4OQ)
+[![Click Here!]()](https://youtu.be/Qnf-2ye-4OQ)
 
 <p align="center">
     <img src="BlogSpace.png" alt="BlogSpace-homeScreen"/>
