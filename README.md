@@ -1,6 +1,5 @@
 ## Demo
-<video src="BlogSpace_demoVideo.mp4" controls="controls" style="max-width: 730px;">
-</video>
+[![Video Demo](https://youtu.be/Qnf-2ye-4OQ)](https://youtu.be/Qnf-2ye-4OQ)
 
 <p align="center">
     <img src="BlogSpace.png" alt="BlogSpace-homeScreen"/>
